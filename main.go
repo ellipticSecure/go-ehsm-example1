@@ -11,7 +11,7 @@
 package main
 
 import (
-	"github.com/miekg/pkcs11"
+	"github.com/ellipticSecure/pkcs11"
 	"log"
 	"os"
 )
